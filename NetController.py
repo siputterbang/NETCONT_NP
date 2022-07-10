@@ -130,4 +130,4 @@ else:
     print("Maaf jawaban anda tidak sesuai")
 
 
-# tiket = "NC-13-f0a4d30816b041e1a546-nbi"
+#Abi Fadri | KELAS D | DTS-TSA
